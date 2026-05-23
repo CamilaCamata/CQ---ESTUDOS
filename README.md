@@ -7,8 +7,11 @@ O objetivo principal deste projeto é explorar conceitos fundamentais e aplicaç
 Ao longo deste repositório, você encontrará:
 
 📌 Implementações de algoritmos quânticos
+
 📊 Simulações e testes experimentais
+
 ⚙️ Estudos sobre circuitos quânticos e suas aplicações
+
 🧪 Análises de desempenho e métricas de avaliação
 
 Este espaço também serve como um registro da evolução do projeto, documentando desafios, soluções e aprendizados adquiridos durante o desenvolvimento da pesquisa.
